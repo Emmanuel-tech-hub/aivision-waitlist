@@ -110,7 +110,7 @@ Early participants receive:
 - GEO Strategy Blueprint
 
 👉 **Join the Waitlist:**  
-https://yourdomain.com/
+[https://yourdomain.com/](https://emmanuel-tech-hub.github.io/aivision-waitlist/)
 
 ---
 
