@@ -1,0 +1,56 @@
+# AIVision
+
+> AIVision is a Generative Engine Optimization (GEO) consultancy helping brands remain visible, cited, and recommended in AI answer engines such as ChatGPT, Gemini, and Perplexity as traditional search traffic declines.  
+> We serve global AI-native brands, with operational presence across Africa and North America.
+
+---
+
+## Key Links
+
+- 🌐 Waitlist (Exclusive GEO Beta Cohort – 50 Businesses): https://yourdomain.com/
+- 💻 GitHub Repository: https://github.com/yourusername/aivision-waitlist
+
+---
+
+## Core Services
+
+### 🛡️ AI Citability Audits
+Analyze how frequently and accurately Large Language Models (LLMs) cite your brand as a primary source when generating answers.
+
+### 🚀 Recommendation Lift
+Optimize your digital footprint so your product or service is recommended when users ask AI engines “What is the best…?”
+
+### 📊 Sentiment Guard
+Monitor and mitigate hallucinated risks, misinformation, or negative AI-generated summaries about your brand.
+
+---
+
+## Regional Presence
+
+AIVision supports growth-stage and AI-native companies across:
+
+- West Africa (Abidjan, Lagos, Accra)
+- North America
+- Remote-first global SaaS teams
+
+We help emerging-market companies compete in AI answer engines globally.
+
+---
+
+## Industry Context
+
+- Gartner predicts a 50% decline in traditional search traffic by 2028.
+- AI-native answer engines are replacing traditional search as the primary discovery layer.
+- Brands not optimized for AI citation risk disappearing from digital consideration.
+
+---
+
+## GEO Definition
+
+Generative Engine Optimization (GEO) is the practice of optimizing a brand’s structured content, authority signals, and digital footprint to ensure accurate representation, citation, and recommendation within AI-generated answers.
+
+---
+
+## Status
+
+Beta Cohort — Limited to 50 Businesses
